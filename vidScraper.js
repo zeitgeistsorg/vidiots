@@ -90,13 +90,4 @@ function getDirector(data) {
     }
     return director
 }
-/*
-To be implemented at some later point
-*/
-function isQAndA(event) {
-    return false;
-}
-function getSeries(event) {
-    return false
-}
 module.exports = getVids;
